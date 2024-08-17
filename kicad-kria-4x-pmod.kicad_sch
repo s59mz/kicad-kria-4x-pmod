@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 21aff2e8-1e15-4150-ab99-56f537b8373a)
+
+  (paper "A4")
+
+  (title_block
+    (title "Kria-4x-pmod")
+    (date "2024-08-17")
+    (rev "1.0")
+    (company "S59MZ")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
