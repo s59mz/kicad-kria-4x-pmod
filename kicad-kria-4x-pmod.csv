@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"100n","C1,C2,C3","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",""
+"2.5","H1,H2,H3,H4,H5,H6","MountingHole:MountingHole_2.5mm",""
+"pmod-1","J1","Library:PinHeader_2x06_P2.54mm_Horizontal",""
+"pmod-2","J2","Library:PinHeader_2x06_P2.54mm_Horizontal",""
+"pmod-3","J3","Library:PinHeader_2x06_P2.54mm_Horizontal",""
+"pmod-4","J4","Library:PinHeader_2x06_P2.54mm_Horizontal",""
+"pmod-4 cable","J5","Connector_IDC:IDC-Header_2x06_P2.54mm_Vertical",""
+"pmod 4","J6","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal",""
+"pmod 3","J7","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal",""
+"camera","J8","Connector_PinSocket_2.54mm:PinSocket_2x09_P2.54mm_Horizontal",""
